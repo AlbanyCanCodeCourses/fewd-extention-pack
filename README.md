@@ -1,5 +1,5 @@
 
-![Banner](img/albany-can-code-logo.png)
+![Banner](albany-can-code-logo.png)
 
 # ACC_FEWD_ExtentionPack
 

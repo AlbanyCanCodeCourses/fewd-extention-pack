@@ -35,7 +35,7 @@
     "neptunedesign.vs-html-to-css",
     "solnurkarim.html-to-css-autocompletion"
   ],
-  "icon": "img/icon.png",
+  "icon": "icon.png",
   "main": "./extension.js",
   "contributes": {
     "commands": [
